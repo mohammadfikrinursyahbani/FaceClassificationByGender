@@ -1,7 +1,7 @@
 # Gender Classification menggunakan VGG, ResNet and GoogleNet
 Dalam Repository ini kelompok kami yakni Al Khwarizmi melakukan implementasi model beberapa model deep learning untuk klasifikasi jenis kelamin (gender) dengan datasets CelebA. Model Deep Learning yang kami coba implementasikan yakni:
 - [VGG16](https://github.com/mohammadfikrinursyahbani/FaceClassificationByGender/blob/main/fix_face_classification.ipynb).
-- [ResNet-18](https://github.com/mohammadfikrinursyahbani/FaceClassificationByGender/blob/main/fix_face_classification.ipynb)
+- [ResNet-18](https://github.com/mohammadfikrinursyahbani/FaceClassificationByGender/blob/main/GoogleNetGender Recognition.ipynb)
 - GoogleNet [Inception v1](https://github.com/mohammadfikrinursyahbani/FaceClassificationByGender/blob/main/fix_face_classification.ipynb).
 
 ## Strategi Implementasi Model
